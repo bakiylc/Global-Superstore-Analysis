@@ -15,7 +15,7 @@
 - In 2015, the highest profit came from the technology product category.
 - The worldwide sales trend increased significantly in June, September and November 2015.
 
-! [](https://github.com/bakiylc/Global-Superstore-Analysis/blob/main/GB_STR_1.jpg)
+![](https://github.com/bakiylc/Global-Superstore-Analysis/blob/main/GB_STR_1.jpg)
 
 
 ### Product Analysis Dashboard:
